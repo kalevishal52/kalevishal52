@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 👨‍💻 All of my projects are available at [https://vishalkale.netlify.app/](https://vishalkaleportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://vishalkale.netlify.app/](https://vishalkale.netlify.app/)
 
 - 💬 Ask me about **Java, SpringBoot**
 

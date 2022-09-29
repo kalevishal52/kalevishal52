@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kalevishal52@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qDVw23TWFOeJoUp4ytRWJHyTAifMJiHB/view](https://drive.google.com/file/d/1qDVw23TWFOeJoUp4ytRWJHyTAifMJiHB/view)
+- 📄 Know about my experiences | My Portfolio: [shorturl.at/dloq0](https://drive.google.com/file/d/1qDVw23TWFOeJoUp4ytRWJHyTAifMJiHB/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

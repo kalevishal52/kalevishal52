@@ -7,13 +7,14 @@
 
 - 🌱 I’m currently learning **SpringBoot**
 
-- 👨‍💻 All of my projects are available at [https://vishalkale.netlify.app/](https://vishalkale.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfoilo](https://vishalkale.netlify.app/)
 
 - 💬 Ask me about **Java, SpringBoot**
 
 - 📫 How to reach me **kalevishal52@gmail.com**
 
-- 📄 Know about my experiences | My Portfolio: [shorturl.at/dloq0](https://drive.google.com/file/d/1qDVw23TWFOeJoUp4ytRWJHyTAifMJiHB/view)
+- 📄 Know about my experiences 
+My : [Resume](https://drive.google.com/file/d/1EqZZf0X6YP2UumAQrYkacG5aYwCQlogO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
